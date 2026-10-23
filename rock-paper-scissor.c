@@ -102,4 +102,5 @@ label:
     {
         printf("its a draw\n");
     }
+    return 0;
 }
